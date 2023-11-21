@@ -2,6 +2,7 @@
   "orgName": "Thermondo Coding Challenge",
   "edition": "Enterprise",
   "features": ["EnableSetPasswordInApi", "PersonAccounts", "ServiceCloud", "FieldService:5"],
+  "hasSampleData": "true",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
